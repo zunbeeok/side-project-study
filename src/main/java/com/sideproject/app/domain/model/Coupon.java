@@ -13,7 +13,7 @@ import javax.persistence.*;
 @Entity
 @Getter
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
-@Table(name = "coupon")
+@Table(name = "coupons")
 @ToString
 public class Coupon extends BaseTimeEntity {
 
@@ -41,7 +41,6 @@ public class Coupon extends BaseTimeEntity {
         this.couponName = couponName;
         this.couponStatus = couponStatus;
         this.couponType = couponType;
-
     }
 
 
