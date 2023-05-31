@@ -1,7 +1,7 @@
-package com.sideproject.app.domain.coupon.dto;
+package com.sideproject.app.domain.coupon.dto.request;
 
-import com.sideproject.app.domain.coupon.CouponStatus;
-import com.sideproject.app.domain.coupon.CouponType;
+import com.sideproject.app.domain.coupon.enums.CouponStatus;
+import com.sideproject.app.domain.coupon.enums.CouponType;
 import com.sideproject.app.domain.model.Coupon;
 import lombok.Getter;
 import lombok.Setter;

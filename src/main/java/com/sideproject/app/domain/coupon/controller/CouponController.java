@@ -1,6 +1,6 @@
 package com.sideproject.app.domain.coupon.controller;
 
-import com.sideproject.app.domain.coupon.dto.CouponDetailsDto;
+import com.sideproject.app.domain.coupon.dto.response.CouponDetailsDto;
 import com.sideproject.app.domain.coupon.service.CouponService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

@@ -1,8 +1,8 @@
 package com.sideproject.app.domain.model;
 
 import com.sideproject.app.common.BaseTimeEntity;
-import com.sideproject.app.domain.coupon.CouponStatus;
-import com.sideproject.app.domain.coupon.CouponType;
+import com.sideproject.app.domain.coupon.enums.CouponStatus;
+import com.sideproject.app.domain.coupon.enums.CouponType;
 import lombok.*;
 import org.hibernate.annotations.DynamicUpdate;
 

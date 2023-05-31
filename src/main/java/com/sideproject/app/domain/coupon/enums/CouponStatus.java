@@ -1,4 +1,4 @@
-package com.sideproject.app.domain.coupon;
+package com.sideproject.app.domain.coupon.enums;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
